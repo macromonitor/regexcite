@@ -1,19 +1,22 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-**NB: Don’t use this package. It was created here after following the
-tutorial chapter in [R Packages](https://r-pkgs.org/Whole-game.html). If
-you want to write your own packages, start there. If you’re looking for
-a package to work with strings and regular expressions, try
-[stringr](https://stringr.tidyverse.org/)**
+**NB: Don’t use this package. It is a replica of [this
+package](https://github.com/jennybc/regexcite), and was created here
+after following the [tutorial
+chapter](https://r-pkgs.org/Whole-game.html) in [R
+Packages](https://r-pkgs.org/). If you want to write your own packages,
+start [there](https://r-pkgs.org/). If you’re looking for a package to
+work with strings and regular expressions, try
+[stringr](https://stringr.tidyverse.org/).**
 
 # regexcite
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of regexcite is to make some common tasks with string
-manipulation a bit easier.
+The goal of regexcite is to make some common tasks with regular
+expressions a bit easier.
 
 ## Installation
 
