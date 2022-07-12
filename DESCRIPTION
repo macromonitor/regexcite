@@ -3,7 +3,7 @@ Title: Simple Regular Expressions
 Version: 0.0.0.9000
 Authors@R: 
     person("John", "Doe", , "john@example.com", role = c("aut", "cre"))
-Description: Make some common tasks with string manipulation a bit easier.
+Description: Make some common tasks with regular expressions a bit easier.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
